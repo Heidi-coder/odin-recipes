@@ -1,32 +1,16 @@
-.title {
-    font-weight: bold;
-    text-align: center;
-    font-size: 42px;
+.header {
+    background-color: #F08B0F;
 }
 
-* {
+body {
     background-color: #F0CC3A;
+    margin: 0;
 }
 
-.text,
-li {
-    color: #361806;
+h1 {
+    margin: 0;
 }
 
-img{
-    height: 400px;
-    width: auto;
-}
-
-h3 {
-    font-size: 36px;
-}
-
-p,
-li {
-    font-size: 20px;
-}
-
-a {
-    font-size: 25px;
+.footer {
+    background-color: #F08B0F;
 }
